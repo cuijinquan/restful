@@ -1,9 +1,10 @@
 restful
-===
+====
 前后端分离api java restful 实现
 服务端采用resteasy和netty的整合
+
 1 添加maven依赖
----
+-------
 ```
   <dependency>
 			<groupId>org.jboss.resteasy</groupId>
@@ -25,10 +26,10 @@ restful
 			 	<artifactId>resteasy-multipart-provider</artifactId>
 			 	<version>2.3.1.GA</version>
 	</dependency>
+```
 	
 2 代码部分
----
-
+-------
 
 ```
 package com.fs.common.service;
