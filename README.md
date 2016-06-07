@@ -1,6 +1,6 @@
 restful
 ====
-前后端分离api java restful 实现
+前后端分离JAVA Restful API实现
 服务端采用resteasy和netty的整合
 
 1 添加maven依赖
